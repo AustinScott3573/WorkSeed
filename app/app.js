@@ -8,9 +8,9 @@ define(function (require) {
   var projects = require('controllers/projectsCtrl');
 
   return angular.module("SeedApp", [
-    'DericApp.home',
-    'DericApp.about',
-    'DericApp.projects',
+    'SeedApp.home',
+    'SeedApp.about',
+    'SeedApp.projects',
     'angular.filter', 
     'ngRoute'])
   .config(['$routeProvider',

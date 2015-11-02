@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "material-design-lite": "~1.0.5",
     "angular": "~1.4.7",
     "angular-filter": "~0.5.7",
     "angular-route": "~1.4.7",
